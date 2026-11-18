@@ -1,0 +1,2 @@
+Layer,IFMAP Height,IFMAP Width,Filter Height,Filter Width,Channels,Num Filter,Stride,
+conv1,227,227,11,11,3,96,4,

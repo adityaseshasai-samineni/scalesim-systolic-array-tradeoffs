@@ -1,0 +1,8 @@
+absl-py==2.5.1
+configparser==7.3.0
+numpy==1.26.4
+pandas==3.0.6
+python-dateutil==4.0.0
+scalesim==2.0.2
+tqdm==4.70.1
+tzdata==2026.6
