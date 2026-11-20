@@ -1,0 +1,4 @@
+Layer name, IFMAP Height, IFMAP Width, Filter Height, Filter Width, Channels, Num Filter, Strides,
+Conv2_1a, 58, 58, 3, 3, 64, 64, 1,
+Conv5_1b, 9, 9, 3, 3, 512, 512, 1,
+FC, 1, 1, 1, 1, 512, 1000, 1,
