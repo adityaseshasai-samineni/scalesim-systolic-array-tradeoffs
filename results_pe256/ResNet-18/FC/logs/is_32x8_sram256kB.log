@@ -1,0 +1,22 @@
+====================================================
+******************* SCALE SIM **********************
+====================================================
+Array Size: 	32x8
+SRAM IFMAP (kB): 	256
+SRAM Filter (kB): 	256
+SRAM OFMAP (kB): 	256
+Dataflow: 	Input Stationary
+CSV file path: 	C:\Users\HP\OneDrive\Desktop\scalesim-systolic-array-tradeoffs\results_pe256\ResNet-18\FC\topology.csv
+Working in ESTIMATE BANDWIDTH mode.
+====================================================
+
+Running Layer 0
+  0%|          | 0/17120 [00:00<?, ?it/s] 11%|#1        | 1901/17120 [00:00<00:00, 17144.82it/s] 21%|##1       | 3616/17120 [00:00<00:00, 14892.27it/s] 30%|##9       | 5117/17120 [00:00<00:00, 14253.97it/s] 39%|###8      | 6600/17120 [00:00<00:00, 13888.18it/s] 47%|####6     | 7991/17120 [00:00<00:00, 13407.51it/s] 55%|#####4    | 9332/17120 [00:00<00:00, 12950.96it/s] 65%|######4   | 11068/17120 [00:00<00:00, 13824.72it/s] 73%|#######2  | 12451/17120 [00:00<00:00, 13068.42it/s] 80%|########  | 13762/17120 [00:01<00:00, 13079.24it/s] 90%|######### | 15463/17120 [00:01<00:00, 13893.70it/s] 98%|#########8| 16856/17120 [00:01<00:00, 13389.77it/s]100%|##########| 17120/17120 [00:01<00:00, 13684.39it/s]
+Compute cycles: 17119
+Stall cycles: 0
+Overall utilization: 11.68%
+Mapping efficiency: 12.50%
+Average IFMAP DRAM BW: 1.947 words/cycle
+Average Filter DRAM BW: 19.506 words/cycle
+Average OFMAP DRAM BW: 8.000 words/cycle
+************ SCALE SIM Run Complete ****************
